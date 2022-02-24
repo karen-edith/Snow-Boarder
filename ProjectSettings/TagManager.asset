@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Dust Trail
   layers:
   - Default
   - TransparentFX
